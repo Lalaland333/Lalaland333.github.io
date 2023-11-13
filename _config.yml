@@ -8,14 +8,14 @@
 
 title: Gloria‘s personal blog
 description: Welcome to Gloria‘s personal blog! Happy blogging... ❤
-github_username: jph00
+github_username: Gloria
 
 # Email and twitter are optional:
-email:
+email: 
 twitter_username:
 
 # Set this to true to get LaTeX math equation support
-use_math:
+use_math: true
 
 # Add your Google Analytics ID here if you have one and want to use it
 google_analytics:
